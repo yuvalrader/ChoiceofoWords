@@ -220,7 +220,7 @@ namespace ChoiceofoWords
             this.Controls.Add(this.LetterBank);
             this.Controls.Add(this.player1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "yuval rader ChoiceofoWords";
             this.ResumeLayout(false);
             this.PerformLayout();
 
