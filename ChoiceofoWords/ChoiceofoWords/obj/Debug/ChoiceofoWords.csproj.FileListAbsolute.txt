@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\מדעי המחשב\מדעי המחשב 10 יחל\ChoiceofoWords\ChoiceofoWords\ChoiceofoWords\bin\Debug\ChoiceofoWords.exe.config
+C:\Users\User\Desktop\מדעי המחשב\מדעי המחשב 10 יחל\ChoiceofoWords\ChoiceofoWords\ChoiceofoWords\bin\Debug\ChoiceofoWords.exe
+C:\Users\User\Desktop\מדעי המחשב\מדעי המחשב 10 יחל\ChoiceofoWords\ChoiceofoWords\ChoiceofoWords\bin\Debug\ChoiceofoWords.pdb
+C:\Users\User\Desktop\מדעי המחשב\מדעי המחשב 10 יחל\ChoiceofoWords\ChoiceofoWords\ChoiceofoWords\obj\Debug\ChoiceofoWords.csprojAssemblyReference.cache
+C:\Users\User\Desktop\מדעי המחשב\מדעי המחשב 10 יחל\ChoiceofoWords\ChoiceofoWords\ChoiceofoWords\obj\Debug\ChoiceofoWords.Form1.resources
+C:\Users\User\Desktop\מדעי המחשב\מדעי המחשב 10 יחל\ChoiceofoWords\ChoiceofoWords\ChoiceofoWords\obj\Debug\ChoiceofoWords.Properties.Resources.resources
+C:\Users\User\Desktop\מדעי המחשב\מדעי המחשב 10 יחל\ChoiceofoWords\ChoiceofoWords\ChoiceofoWords\obj\Debug\ChoiceofoWords.csproj.GenerateResource.cache
+C:\Users\User\Desktop\מדעי המחשב\מדעי המחשב 10 יחל\ChoiceofoWords\ChoiceofoWords\ChoiceofoWords\obj\Debug\ChoiceofoWords.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מדעי המחשב\מדעי המחשב 10 יחל\ChoiceofoWords\ChoiceofoWords\ChoiceofoWords\obj\Debug\ChoiceofoWords.exe
+C:\Users\User\Desktop\מדעי המחשב\מדעי המחשב 10 יחל\ChoiceofoWords\ChoiceofoWords\ChoiceofoWords\obj\Debug\ChoiceofoWords.pdb
+C:\Users\User\Desktop\מדעי המחשב\מדעי המחשב 10 יחל\ChoiceofoWords\ChoiceofoWords\ChoiceofoWords\obj\Debug\ChoiceofoWords.setting_Form.resources
